@@ -19,7 +19,7 @@ A simple responsive profile component
 
 # Details:
 
-Techs, Colors and fonts used in the project
+Techs, colors and fonts used in the project
 
 ## Techs: 
 - HTML
