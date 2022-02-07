@@ -11,6 +11,10 @@ A simple responsive profile component
   * [Font](#Font)
 
 
+# Into: 
+
+<img src="imgs/demo1.jpg" alt="Demo">
+
 
 # Techs: 
 - HTML
