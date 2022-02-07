@@ -16,7 +16,7 @@ A simple responsive profile component
 - HTML
 - CSS
 
-#Details:
+# Details:
 
 ## Colors:
 red: #0C0B0B<br>
