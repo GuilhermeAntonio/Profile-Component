@@ -27,7 +27,7 @@ A simple responsive profile component
 Colors and fonts used in the project
 
 ## Colors:
-<p style="color: #f00459">Red: #f00459<br> </p>
+Red: #f00459<br> 
 Yellow: #facf5e<br>
 Blue: #124cfb<br>
 Gray: #383838<br>
