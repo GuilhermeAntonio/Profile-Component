@@ -27,7 +27,11 @@ A simple responsive profile component
 Colors and fonts used in the project
 
 ## Colors:
-red: #0C0B0B<br>
+Red: #f00459<br>
+Yellow: #facf5e<br>
+Blue: #124cfb<br>
+Gray: #383838<br>
+Dark grey: #1c1d23 <br>
 
 ## Font:
 Text Fonts: <a href="https://fonts.google.com/specimen/Montserrat">Montserrat</a>
