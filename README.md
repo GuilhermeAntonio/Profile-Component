@@ -1,4 +1,5 @@
 # Profile Component
+
 A simple responsive profile component
 
 
@@ -22,6 +23,8 @@ A simple responsive profile component
 - CSS
 
 # Details:
+
+Colors and fonts used in the project
 
 ## Colors:
 red: #0C0B0B<br>
