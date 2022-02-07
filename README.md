@@ -1,2 +1,2 @@
-# Profile-Component
+# Profile Component
 A simple responsive profile component
