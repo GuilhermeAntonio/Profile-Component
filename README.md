@@ -30,4 +30,5 @@ Colors and fonts used in the project
 red: #0C0B0B<br>
 
 ## Font:
-Text Fonts:
+Text Fonts: <a href="https://fonts.google.com/specimen/Montserrat">Montserrat</a>
+ 
