@@ -13,7 +13,7 @@ A simple responsive profile component
 
 # Into: 
 
-<img src="imgs/demo1.jpg" alt="Demo">
+<img src="Profile-Component/imgs/Demo1.jpg" alt="Demo">
 
 
 # Techs: 
