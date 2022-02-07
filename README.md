@@ -6,8 +6,8 @@ A simple responsive profile component
 ## Índice
 
 * [Into](#Into) 
-* [Techs](#Techs)
 * [Details](#Details)
+  * [Techs](#Techs)
   * [Colors](#Colors)
   * [Font](#Font)
 
