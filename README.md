@@ -27,4 +27,4 @@ A simple responsive profile component
 red: #0C0B0B<br>
 
 ## Font:
-Font:
+Text Fonts:
