@@ -24,7 +24,7 @@ Techs, colors and fonts used in the project
 ## Techs: 
 - HTML
 - CSS
-- 
+
 ## Colors:
 Red: #f00459<br> 
 Yellow: #facf5e<br>
